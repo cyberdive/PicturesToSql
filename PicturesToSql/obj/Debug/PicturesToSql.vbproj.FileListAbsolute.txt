@@ -1,0 +1,10 @@
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesToSql\PicturesToSql\bin\Debug\PicturesToSql.exe.config
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesToSql\PicturesToSql\bin\Debug\PicturesToSql.exe
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesToSql\PicturesToSql\bin\Debug\PicturesToSql.pdb
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesToSql\PicturesToSql\bin\Debug\PicturesToSql.xml
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesToSql\PicturesToSql\obj\Debug\PicturesToSql.Form1.resources
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesToSql\PicturesToSql\obj\Debug\PicturesToSql.Resources.resources
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesToSql\PicturesToSql\obj\Debug\PicturesToSql.vbproj.GenerateResource.Cache
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesToSql\PicturesToSql\obj\Debug\PicturesToSql.exe
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesToSql\PicturesToSql\obj\Debug\PicturesToSql.xml
+c:\users\administrator.administrator5\documents\visual studio 2013\Projects\PicturesToSql\PicturesToSql\obj\Debug\PicturesToSql.pdb
